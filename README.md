@@ -22,6 +22,6 @@
 🛠️ **Tools**: Git | VS Code | Jupyter  
 🧠 **ML/DS**: NumPy | Pandas | Scikit-learn | Matplotlib | seaborn | TensorFlow (a bit)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kaadi2000?theme=dark&font=baloo&ext=contest)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kumaditya?theme=dark&font=baloo&ext=contest)  
 ![Snake gif](https://github.com/kaadi2000/kaadi2000/blob/output/github-snake.svg)
 
